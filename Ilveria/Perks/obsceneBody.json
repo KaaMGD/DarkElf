@@ -1,0 +1,14 @@
+{
+    "name": "Obscene Body",
+    "description": "Triple the recoil damage your opponent takes!",
+
+    "LevelReq": "0",
+    "PerkReq": [""],
+    "StatReq": [""],
+    "StatReqAmount": ["0"],
+
+    "PerkType": ["RecoilBoost"],
+    "EffectPower": ["300"],
+
+    "PlayerCanPurchase": "No"
+}

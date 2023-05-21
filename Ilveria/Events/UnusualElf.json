@@ -1,0 +1,441 @@
+{
+	"name": "Unusual Elf",
+	"CardType": "Event",
+	"CardLimit": "1",
+	"Description": "A strange elf has been spotted on the rocky mountain trails. Please investigate!",
+	"requires": [
+		"Temple Checkpoint Gem"
+	],
+	"Speakers": [
+		{
+			"name": "Ilveria",
+			"postName": "",
+			"SpeakerType": "Monster"
+		},
+		{
+			"name": "Strange Elf",
+			"postName": "",
+			"SpeakerType": "Monster"
+		}
+	],
+	"EventText": [
+		{
+			"NameOfScene": "Meet the elf.",
+			"theScene": [
+				"DenyInventory",
+				"ChangeBG", "mountain.png",
+				"As you travel the rocky mountain trails, you hear a sultry voice addressing you from behind.",
+				"Speaks2", "Hello there, {i}Hero{/i}♪.",
+				"IfChoice", "1", "WombTalked",
+				"Repeated Meetings After Victory Womb",
+				"IfProgressEquals", "2", "Meeting Again",
+				"IfProgressEquals",
+				"3",
+				"Meeting Again After Victory",
+				"IfProgressEqualsOrGreater",
+				"4",
+				"Repeated Meetings After Victory",
+				"SetProgress",
+				"2",
+				"JumpToScene",
+				"First Meeting"
+			]
+		},
+		{
+			"NameOfScene": "First Meeting",
+			"theScene": [
+				"Quickly turning around, you are greeted with the sight of a ridiculously dressed dark elf woman.",
+				"DisplayCharacters", "1", "EndLoop",
+				"Speaks2", "You are a human Hero, right? Fufu, then you must've come to defeat me?",
+				"PlayerSpeaks", "N-no, not really. I heard there was a... strange elf... seen around the area. I decided to investigate.",
+				"ChangeImageFor", "1", "Grin",
+				"Speaks2", "Oh my, how ominous. A strange elf.|n|Now, whoever could that be, mm?",
+				"PlayerSpeaks", "...It's probably you.",
+				"ChangeImageFor", "1", "Wow",
+				"Speaks2", "Me?",
+				"ChangeImageFor", "1", "Grin",
+				"Speaks2", "What's so strange about me, mm?",
+				"PlayerSpeaks", "Umm...",
+				"Speaks2", "I'm no one strange or suspicious. See, I'll even introduce myself! My name is Ilveria, just a regular Dark Elven Priestess♪.",
+				"Speaks", "But nevermind that. I am more interested in how you're going to {i}investigate{/i} me.",
+				"Speaks", "Fufu... You were {i}investigating{/i} my boobies for a while now. Wanna start with them, Hero?♥",
+				"ChangeImageFor", "1", "Base",
+				"CombatEncounter", "SetBGOnRun", "mountain.png", "Ilveria", "StartCombat",
+				"Finally defeating the lewd elf, you sigh with exhaustion and go on your way."
+			]
+		},
+		{
+			"NameOfScene": "Meeting Again",
+			"theScene": [
+				"You feel a warm pair of breasts pressing against your back!",
+				"Speaks", "Back for more, mm?",
+				"DisplayCharacters", "1", "EndLoop",
+				"Turning around, you see familiar dark elven features.",
+				"Recalling your last encounter, you gulp down nervously and prepare to fight.",
+				"CombatEncounter", "SetBGOnRun", "mountain.png", "Ilveria", "StartCombat",
+				"Finally defeating the lewd elf, you sigh with exhaustion and go on your way."
+			]
+		},
+		{
+			"NameOfScene": "Meeting Again After Victory",
+			"theScene": [
+				"ChangeProgress", "1",
+				"DisplayCharacters", "1", "EndLoop",
+				"ChangeImageFor", "1", "Shy",
+				"Turning around, you see familiar dark elven features.",
+				"But she seems different somehow. Timid? Almost... embarrassed?",
+				"Speaks", "Umm... about last time...",
+				"Speaks", "You defeated me so completely... Uuu, I'm so embarrassed.",
+				"PlayerSpeaks", "Oh. Um... well, you attacked first! Anyway, can we talk now?",
+				"Speaks", "Talk? Uh, sure, I guess.",
+				"ChangeImageFor", "1", "Base",
+				"Menu", "Chat", "Sparring", "Sexual Relief", "Leave", "EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Repeated Meetings After Victory",
+			"theScene": [
+				"DisplayCharacters", "1", "EndLoop",
+				"Turning around, you see familiar dark elven features.",
+				"Speaks", "So we meet again, Hero♪.",
+				"Menu", "Chat", "Sparring", "Sexual Relief", "Leave",
+				"EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Repeated Meetings After Victory Womb",
+			"theScene": [
+				"DisplayCharacters", "1", "EndLoop",
+				"Turning around, you see familiar dark elven features.",
+				"Speaks", "So we meet again, Hero♪.",
+				"Menu", "Chat", "Sparring", "Sexual Relief", "Womb Magic", "Leave", "EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Chat",
+			"theScene": [
+				"Speaks", "What do you want to talk about?",
+				"Menu", "Priestess of dark elves?", "Your clothes are weird.", "Weak to sex?", "Back",
+				"EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Priestess of dark elves?",
+			"theScene": [
+				"PlayerSpeaks", "What does a priestess of dark elves do anyway? Why come to this mountain?",
+				"Speaks", "Well, it's missionary work. And not as in missionary position. At least, not always. ♥",
+				"Speaks", "I spread the word of Goddess, and look for those needing guidance... and strong human heroes to bully. ♪",
+				"ChangeImageFor", "1", "Shy",
+				"Her face flushes.",
+				"Speaks", "Or be bullied by, I guess.",
+				"ChangeImageFor", "1", "Base",
+				"You decide to change the subject...",
+				"JumpToScene", "Chat"
+			]
+		},
+		{
+			"NameOfScene": "Your clothes are weird.",
+			"theScene": [
+				"PlayerSpeaks", "Your clothes are kind of... peculiar.",
+				"ChangeImageFor", "1", "Lewd",
+				"Speaks", "Fufu... it's just the sex-fighting attire of my temple. Rather naughty, don't you think? ♥",
+				"She raises her tiny loincloth, flashing her pussy for a moment.",
+				"PlayerSpeaks", "Uhh... yeah.",
+				"ChangeImageFor", "1", "Base",
+				"PlayerSpeaks", "...What's with the rock levitating over the staff?",
+				"She waves her staff a bit. The rock slowly floats after the staff's head.",
+				"Speaks", "Fufu. It's just an obsidian rock. In the past, we used to employ these staves as blunt weapons, but now its only use is symbolic.",
+				"Speaks", "It's a tradition to fashion sacred items of the dark elven clergy from obsidian. And the rock here represents the Moon.",
+				"Speaks", "Our Goddess controls the moon, and our staves control these rocks in a bleak imitation.",
+				"PlayerSpeaks", "I see... but isn't obsidian heavy to wear? Especially the crown.",
+				"ChangeImageFor", "1", "Grin",
+				"Speaks", "Mmm, I guess?|n|Not quite as heavy as my titties, anyway. ♥",
+				"PlayerSpeaks", "...Right.",
+				"ChangeImageFor", "1", "Base",
+				"You decide to change the subject...",
+				"JumpToScene", "Chat"
+			]
+		},
+		{
+			"NameOfScene": "Weak to sex?",
+			"theScene": [
+				"PlayerSpeaks", "Umm, when we had sex... you kind of..",
+				"ChangeImageFor", "1", "Shy",
+				"Speaks", "Uuu, came indecently hard?",
+				"PlayerSpeaks", "...Yeah.",
+				"Speaks", "It's... kind of a trademark, I guess?",
+				"ChangeImageFor", "1", "Base",
+				"Speaks", "All elven priestesses have... a very sensitive womb. It's enchanted to nurture magically strong children, but we become very sensitive to vaginal sex in process.",
+				"Speaks", "I don't think it's a side effect either... it gives us a strong desire to procreate, and bearing many children is one of the virtues of our society.",
+				"Speaks", "But it all changed when Demon Queen cast that spell. Normally, if a priestess is bested in martial combat by a male, she will submit her womb to him, becoming his wife.",
+				"Speaks", "But now, when sex fighting is the norm... priestesses don't make for very powerful warriors.",
+				"ChangeImageFor", "1", "Shy",
+				"Speaks", "Uuu, does this mean I need to become your wife now? You already marked my womb. ♥",
+				"PlayerSpeaks", "Uhh... I-",
+				"ChangeImageFor", "1", "Grin",
+				"Speaks", "Fufufu, I'm just kidding. ♥",
+				"Speaks", "In fact, we have already adapted to the life of sex fighting.",
+				"Speaks", "Since sex became commonplace, saving our wombs for the strong became impossible. So now we enchant our bodies to absorb semen as pure magic, storing it for future pregnancies. This also serves as birth control.",
+				"Speaks", "Then, when the High Priestess commands, we remove the enchantment and breed with a partner of our choice.",
+				"ChangeImageFor", "1", "Lewd",
+				"Speaks", "I wouldn't mind bearing your children one day. ♥",
+				"PlayerSpeaks", "R-right...",
+				"ChangeImageFor", "1", "Base",
+				"SetChoice", "1", "WombTalked",
+				"You decide to change the subject...",
+				"JumpToScene", "Chat"
+			]
+		},
+		{
+			"NameOfScene": "Back",
+			"theScene": [
+				"Speaks", "Okay then, what now?♥",
+				"IfChoice", "1", "WombTalked", "BackWomb",
+				"Menu", "Sparring", "Sexual Relief", "Leave", "EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "BackWomb",
+			"theScene": [
+				"Menu", "Sparring", "Sexual Relief", "Womb Magic", "Leave", "EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Sparring",
+			"theScene": [
+				"Speaks", "Sparring? Ah... but you know my weakness now...",
+				"Speaks", "Do you simply want to fuck me senseless? Or maybe... the other way around? ♥",
+				"Speaks", "Well, I don't really mind. ♥",
+				"CombatEncounter", "NoRunning", "Ilveria", "StartCombat",
+				"Having triumphed over the dark elven priestess, you go on your way."
+			]
+		},
+		{
+			"NameOfScene": "Sexual Relief",
+			"theScene": [
+				"PlayerSpeaks", "I am feeling kinda pent up... Want to help?",
+				"ChangeImageFor", "1", "Lewd",
+				"Speaks", "... ♥ Sure♪.",
+				"ChangeImageFor", "1", "Base",
+				"Speaks", "I know just the thing♪. Take off your pants and sit here. ♥",
+				"Sitting down next to a large rock, she motions to her lap.",
+				"Under her guidance, you sit on her soft thighs and lower your upper body on the warm rock.",
+				"Your cock is nestled snugly between her boobs and throbs with anticipation.",
+				"Speaks", "Hehe, so energetic already. ♥ You really love my boobs, huh?",
+				"Drooling some spit on your dick, she wraps it in her bountiful bosom.",
+				"Speaks", "Here, your awaited relief tittyfuck. ♥",
+				"Bouncing her tits in your lap, she observes your reactions with a gentle smile.",
+				"Speaks", "How's this? Feels good, mm?♥",
+				"You moan and give her a nod, enjoying the incredible softness of her tits.",
+				"ChangeImageFor", "1", "Grin",
+				"Beaming at your reaction, she squeezes her breasts tighter, stroking your length smoothly.",
+				"The tight sensation feels heavenly, and you feel your orgasm approaching.",
+				"ChangeImageFor", "1", "Lewd", "Speaks", "Fufu, it's twitching♪. Are you about to {i}relieve{/i} yourself in my boobs? ♥ Go ahead. ♥",
+				"Never intending to hold back, you groan and wrap your legs around her back, unloading in her tight cleavage.",
+				"PlayerOrgasm", "1",
+				"ChangeSensitivity", "Sex", "5",
+				"IfPlayerSpiritGone", "Collapsed",
+				"Speaks", "Hehe, so cute. ♥",
+				"Letting your penis plop down on your stomach, she spreads her tits apart to show off the sperm-stained cleavage.",
+				"Speaks", "Look how much you came. ♥",
+				"Speaks", "What now? Feeling refreshed, or want to keep going?♥",
+				"Speaks", "Keep in mind I am kinda horny now, so I won't stop until you're dry. ♥",
+				"Menu", "More Please", "Thank and Leave",
+				"EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Collapsed",
+			"theScene": [
+				"Speaks", "Oh my? ♥ Silly Hero, you were exhausted, not pent up. ♥",
+				"Realizing that she is right, you groan as strength drains from your body, driving you to sleep.",
+				"Speaks", "Well, it's okay. ♥ Sweet dreams, silly Hero. ♥",
+				"GameOver"
+			]
+		},
+		{
+			"NameOfScene": "More Please",
+			"theScene": [
+				"PlayerSpeaks", "K-keep going!",
+				"Speaks", "Fufu, alright. ♥ Here we go then...",
+				"JumpToScene", "RandomTiddyfuck"
+			]
+		},
+		{
+			"NameOfScene": "NextMiniScene",
+			"theScene": [
+				"IfPlayerSpiritGone", "Dry",
+				"Your dick throbs in her lap, eager for more.",
+				"Speaks", "Fufu... seems we're not done yet. ♥",
+				"JumpToScene",
+				"RandomTiddyfuck"
+			]
+		},
+		{
+			"NameOfScene": "RandomTiddyfuck",
+			"theScene": [
+				"JumpToRandomScene", "NipplePlay", "Squeezing", "Bouncing", "Wackoff", "EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "NipplePlay",
+			"theScene": [
+				"Taking your manhood in her hand, she guides its tip towards her nipple.",
+				"You gasp she rubs the head against her large teat.",
+				"Speaks", "Fufu, my nipples are kinda big, aren't they? Look how stiff they are. ♥",
+				"Speaks", "Here, let's try something like this. ♥",
+				"Letting go of your dick, she instead grabs her plump nipples and places your cock head between them.",
+				"Her broad areolae are very soft and nipples are incredibly stiff. The gap between the sensations is rather nice, and you find yourself leaking precum on her dark nipples.",
+				"ChangeImageFor", "1", "Lewd",
+				"Speaks", "Fufu, feels nice? I like this too, your penis is making my nipples all hot. ♥",
+				"Rubbing her teats against your glans, she quickly brings you to another orgasm.",
+				"PlayerOrgasm", "1",
+				"With your seed spilling across her breasts, she giggles happily and guides her breast up to her face.",
+				"Savoring your taste with delighted expression, she sucks her nipples clean of your spunk, one after the other.",
+				"Speaks", "Thanks for the meal. ♥",
+				"ChangeImageFor", "1", "Base",
+				"ChangeSensitivity", "Sex", "5",
+				"JumpToScene", "NextMiniScene"
+			]
+		},
+		{
+			"NameOfScene": "Squeezing",
+			"theScene": [
+				"Speaks", "Let's try something mean. ♥",
+				"Trapping your stiff dick in her enticing bosom with a habitual motion, she suddenly starts squeezing it very hard!",
+				"ChangeImageFor", "1", "Lewd",
+				"Speaks", "Fufu, what if I squeeze really really hard? What would happen then, mm? ♥",
+				"You gasp and moan as her soft mammaries crush your dick in a tight prison of warm flesh.",
+				"It feels almost painful, but amazing nonetheless. The elf grins and presses her tits a bit lower in your lap, giving your cock a short stroke.",
+				"The minute stimulation combined with intense pressure is too much and your cock erupts with hot seed, staining her damp cleavage again.",
+				"PlayerOrgasm", "1",
+				"Speaks", "Yeah, a premature ejaculation would happen of course. ♥",
+				"ChangeImageFor", "1", "Base",
+				"ChangeSensitivity", "Sex", "5",
+				"JumpToScene", "NextMiniScene"
+			]
+		},
+		{
+			"NameOfScene": "Bouncing",
+			"theScene": [
+				"Speaks", "Let's try something fun. ♥",
+				"ChangeImageFor", "1", "Grin",
+				"The elf presses her elbows to her plump breasts, squeezing them around your penis, but doing little to hold them in place.",
+				"Securing the position, she begins to shake her torso left and right. Her tits follow suit, jiggling wildly around your penis.",
+				"Speaks", "Here we go, bounce-bounce, jiggle~♥",
+				"The random touches of her soft flesh feel amazing and your penis throbs in delight.",
+				"Speaks", "Feels nice, right?♥ Go ahead and cum. ♥ Look at my shaking boobies and shoot your cum. ♥",
+				"Enjoying the sight of her indecently bouncing tits, you moan and shoot another load in her breasts.",
+				"PlayerOrgasm", "1",
+				"Still bumped into by her shaking breasts, your cock shoots sperm in random directions, making a huge mess on her breasts.",
+				"Some of your spunk lands on her lips and she licks it up in delight.",
+				"ChangeImageFor", "1", "Base",
+				"ChangeSensitivity", "Sex", "5",
+				"JumpToScene", "NextMiniScene"
+			]
+		},
+		{
+			"NameOfScene": "Wackoff",
+			"theScene": [
+				"Speaks", "Let's try something different. ♥",
+				"Taking your hands in hers, she guides them to her weighty breasts, forcing you to grab them.",
+				"ChangeImageFor", "1", "Lewd", "Speaks", "I'm kinda tired from moving these heavy tits, so go ahead and whack yourself off with them. ♥",
+				"Gulping, you give yourself an experimental stroke with her tits.",
+				"Stained with your cum they slide over your length easily, and it feels amazing.",
+				"In no time at all you begin masturbating with her tits eagerly, squeezing and kneading them as you slap them loudly against your lap.",
+				"The elf giggles and moans encouragingly, no matter how rough you manhandle her bosom.",
+				"Speaks", "Ahn. ♥ My boobs became a masturbation toy. ♥ You're fapping with my tittes. ♥",
+				"Further excited by her words, you buck your hips and groan in pleasure, orgasm building fast.",
+				"Speaks", "Gonna cum?♥ Gonna cum in my cocksleeve boobies?♥ Hurry up and give them your stinky cum. ♥",
+				"Squeezing her full breasts tightly against your cock, you cum and cum in her breasts, entranced by the pleasure.",
+				"PlayerOrgasm", "1",
+				"Giving yourself one last stroke, you let go of her breasts in exhaustion.",
+				"ChangeImageFor", "1", "Base",
+				"ChangeSensitivity", "Sex", "5",
+				"JumpToScene", "NextMiniScene"
+			]
+		},
+		{
+			"NameOfScene": "Dry",
+			"theScene": [
+				"Finally spent, your dick flops weakly on your stomach.",
+				"Speaks", "Fufufu, I guess you're done. ♥ Did it feel good?",
+				"PlayerSpeaks", "Y-yesh.. amazing... ♥",
+				"Barely conscious, you dimly note how the elf strokes your stomach gently, urging you to fall asleep in her lap.",
+				"Speaks", "Sweet dreams, {i}pervert{/i} Hero. ♥",
+				"GameOver"
+			]
+		},
+		{
+			"NameOfScene": "Womb Magic",
+			"theScene": [
+				"PlayerSpeaks", "Umm.. So.. Want to gather my magical energy?",
+				"ChangeImageFor", "1", "Shy",
+				"Speaks", "Eh? Like... in my womb?",
+				"PlayerSpeaks", "Y-yeah.",
+				"Speaks", "...Sure.  ♥ B-but I'll be on top!",
+				"Nodding, you let the elf priestess lower you on the ground, flat on your back.",
+				"Straddling your legs, she pulls out your quickly hardening penis, allowing it to flop against her tummy.",
+				"Speaks", "Ah... ♥ To think it'll go this deep in me...",
+				"Running her hands along your length, she strokes and rubs it affectionately.",
+				"Not wanting to wait any longer, she positions herself above your dick.",
+				"Lifting her tiny loincloth, she gives you a good look on her drooling snatch.",
+				"Speaks", "Look how wet I am... ♥ Here I go...",
+				"Slowly lowering herself, she allows her tight pussy to swallow your dick.",
+				"ChangeImageFor", "1", "Lewd",
+				"Speaks", "Oooh.. ♥ So good. ♥ Human cock. ♥",
+				"Letting your elf lover pace herself you kick back and enjoy the view, and her hot pussy gently milking your shaft.",
+				"Resting her arms on your stomach, she begins to slowly bounce in your cock, moaning loudly.",
+				"Speaks", "Oooh Hero.. ♥ This is so good. ♥",
+				"Despite the gentle pace of sex, her tight, hot cunt feels amazing and you do your best not to thrust back in her.",
+				"Her face quickly gets redder, and her breathing uneven and strained.",
+				"Speaks", "Hero.. ♥ No more... Please cum now, or I'll go crazy. ♥",
+				"Nodding, you grip her hips and push as deep as you can, poking at something hot before shooting your load inside her with a grunt.",
+				"PlayerOrgasmNoSpiritLoss",
+				"Speaks", "Hiii~ ♥ Oh, your penis is kissing my womb... ♥ You're inseminating me! ♥",
+				"Speaks", "Your cum is soo hooot... ♥",
+				"Taking your hands, she guides them to her stomach.",
+				"Speaks", "H-here, feel.. my womb is burning up.. ♥",
+				"True to her words, her stomach is incredibly hot. Massaging it gently, you elicit a pleasured mewl from the elf.",
+				"Speaks", "Mwaahn... ♥ Naughty... ♥",
+				"Pushing your hands away, she lowers her face to kiss you.",
+				"Speaks", "Mwah... ♥ My Hero... ♥ We have to stop or I'll really fall for you. ♥",
+				"With regret, she pulls herself off your cock, a huge load of your cum spilling out of her chocolate pussy.",
+				"Speaks", "Mmmh... ♥ I am definitely making you impregnate me one day, Hero.. ♥",
+				"ChangeSensitivity", "Sex", "3",
+				"JumpToScene", "Kiss and Leave"
+			]
+		},
+		{
+			"NameOfScene": "IlveriaUpdateProgress",
+			"theScene": [
+				"IfProgressEquals", "1", "IlveriaSetProgressThree",
+				"IfProgressEquals", "2", "IlveriaSetProgressThree"
+			]
+		},
+		{
+			"NameOfScene": "IlveriaSetProgressThree",
+			"theScene": [
+				"SetProgress", "3"
+			]
+		},
+		{
+			"NameOfScene": "Leave",
+			"theScene": [
+				"You bid farewell to the elven priestess and continue your adventure."
+			]
+		},
+		{
+			"NameOfScene": "Thank and Leave",
+			"theScene": [
+				"Thanking the naughty elf for her {i}help{/i}, you bid her farewell and continue your adventure."
+			]
+		},
+		{
+			"NameOfScene": "Kiss and Leave",
+			"theScene": [
+				"Kissing the dark elf one last time, you bid her farewell and continue your adventure."
+			]
+		}
+	]
+}

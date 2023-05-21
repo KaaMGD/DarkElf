@@ -1,0 +1,1281 @@
+{
+	"name": "Ilveria",
+	"IDname": "Ilveria",
+	"species": "Dark Elven",
+	"gender": "female",
+	"description": "An elf woman with chocolate brown skin, long pink hair, and dark crimson eyes, half-hidden by her heavy eyelids that give her a natural come-hither look. Her long and pointed ears are adorned with dark jewelry and a similarly dark crown of jagged stones rests on her head. Her full lips are covered in a thick layer of strikingly yellow lipstick. The dark elf's body is well-rounded and pleasantly plump, which is a rare trait for her species. Her limbs are adorned in dark purple gloves and stockings, while the rest of her outfit is much more revealing. For a top, she wears a tight underbust corset that serves only to support her huge breasts, while doing nothing to conceal them. Her crotch is barely covered by a tiny loincloth. A dark choker encrusted with same dark material as her jewelry is wrapped tightly around her neck.",
+	"encyclopedia": "",
+	"tags": "none",
+	"generic": "False",
+	"requires": [
+		""
+	],
+	"skillList": [
+		"Priestess Finger",
+		"Priestess Prostate Milking",
+		"Titfuck Encouragement",
+		"Priestess' Titfuck Temptation",
+		"Priestess' Pecking Kisses",
+		"Priestess' Wet Kisses",
+		"Priestess' Penis Kissing",
+		"Priestess' Fellatio Temptation",
+		"Priestess' Vacuum Blowjob",
+		"Secret Poison Needle",
+		"Priestess' Vulgar Seduction",
+		"Priestess' Staff Dance",
+		"Priestess' Knee Grind",
+		"Priestess' Anal Grind",
+		"Breast Smothering",
+		"Breast Suffocation"
+	],
+	"perks": [
+		"Obscene Body",
+		"Sex Adverse"
+	],
+	"stats": {
+		"lvl": "18",
+		"Exp": "175",
+		"max_hp": "700",
+		"max_ep": "10",
+		"max_sp": "1",
+		"Power": "6",
+		"Technique": "18",
+        "Intelligence": "10",
+		"Willpower": "5",
+		"Allure": "24",
+		"Luck": "3"
+	},
+	"Fetishes": [
+		"Sex|/|30"
+	],
+	"BodySensitivity": {
+		"Sex": "220",
+		"Ass": "50",
+		"Breasts": "90",
+		"Mouth": "80",
+		"Seduction": "100",
+		"Magic": "50",
+		"Pain": "100",
+		"Holy": "100",
+		"Unholy": "100"
+	},
+	"resistancesStatusEffects": {
+		"Stun": "0",
+		"Charm": "0",
+		"Aphrodisiac": "25",
+		"Restraints": "100",
+		"Sleep": "0",
+		"Trance": "0",
+		"Paralysis": "0",
+		"Debuff": "0"
+	},
+	"moneyDropped": "250",
+	"ItemDropList": [
+		{
+			"name": "Soothing Potion",
+			"dropChance": "50"
+		},
+		{
+			"name": "Panacea",
+			"dropChance": "15"
+		}
+	],
+	"lossScenes": [
+		{
+			"NameOfScene": "Trampling.",
+			"move": "",
+			"stance": "",
+			"includes": [
+				"Ilveria"
+			],
+			"theScene": [
+				"Overwhelmed by the dark elf's vulgar sexual techinques, you collapse butt-first on the ground.",
+				"Speaks", "Fufu, was that too much for you, Hero?",
+				"ChangeImageFor", "1",
+				"Lewd",
+				"The priestess leisurely walks up to you, and with a predatory grin pulls off her shoe and stocking.",
+				"Then her naked foot falls right on your exposed cock!",
+				"Speaks", "This... naughty thing... still seems energetic enough. ♥",
+				"With her foot pressing down on your crotch, you feel completely entrapped.|n|Being so completely in her power starts arousing you.",
+				"Still massaging your cock slowly, she is studying your reaction intently.",
+				"Speaks", "Enjoying yourself under my foot, mm, Hero? ♥",
+				"PlayerSpeaks", "Aah.. ahh..",
+				"Suddenly, she lifts her foot and pushes it against your chest.",
+				"Speaks", "Lie down.",
+				"With no strength to resist, you fall flat on your back.",
+				"Speaks", "Good boy. ♥",
+				"Then her warm foot returns to your crotch, making your cock throb with lust.",
+				"Speaks", "Fufu, already throbbing so much, and we've just started.",
+				"Softly stroking your length with her foot, she gestures upwards.",
+				"Speaks", "Raise your legs, Hero. ♥",
+				"Embarrassed but compelled by arousal, you do as she says.|n|Grasping your ankles, she spreads your legs a bit wider.",
+				"Being so completely exposed in an embarrassing position you become more and more aroused.",
+				"Speaks", "Hehehe, the strong human Hero is spreading his legs like a lusty elven girl. ♥",
+				"Firmly gripping your ankles, she alternates between grinding her foot on your crotch and raising her foot to stomp back on you.",
+				"Probably because of Demon Queen's spell, the stomps don't seem to cause any pain and only bring pleasure.",
+				"Engrossed in the energetic footjob, she flushes red and starts breathing heavily.",
+				"Speaks", "Fufu, ah... I am trampling the human Hero. ♥♥",
+				"Unable to withstand her lustful assault for long, you groan and orgasm, unloading your sperm on your stomach.",
+				"Speaks", "Ahehe, yes... Keep cumming just like that, and I'll bully your penis until nothing is left. ♥",
+				"Unconcerned with your oversensitive penis, she focuses on stomping on it energetically.",
+				"Trampling your dick together with your dignity, she quickly brings you to the edge again, forcing you to orgasm shamefully fast.",
+				"Speaks", "Good boy, that's right, show me more. ♥",
+				"Pleasure overwhelming your mind, you can only whine, shiver pathetically and beg for more.",
+				"PlayerSpeaks", "Ahh.. M-more!♥",
+				"Speaks", "Fufu, don't worry. I will keep trampling you until you can't live without my foot. ♥",
+				"Speaks", "Even when you faint... I will continue crushing that shameful human penis that likes being bullied so much. ♥",
+				"Your mind unable to take anymore you black out while spraying cum uncontrollably yet again.",
+				"The dark elf's flushed face is the last thing you see before slipping into dark slumber...",
+				"ChangeSensitivity", "Sex", "5"
+			],
+			"picture": ""
+		},
+		{
+			"NameOfScene": "Prostate Teasing.",
+			"move": "",
+			"stance": "Anal Fingering",
+			"includes": [
+				"Ilveria"
+			],
+			"theScene": [
+				"With her finger wiggling against your sensitive prostate, you can no longer muster the power to fight back and stop struggling.",
+				"Speaks", "Fufu, that's better♪. Now lets get more comfortable. ♥",
+				"With your legs still spread wide, she takes out her finger and pulls your butt on her lap, dick facing away from her.",
+				"Speaks", "I'm going to tease your butt a whole lot. ♥ I am sure you're happy. ♥",
+				"PlayerSpeaks", "Ah.. noo.. ♥",
+				"Speaks", "Don't lie. ♥ Here we go. ♥",
+				"Slipping her finger back inside your ass, she firmly presses it against your prostate.",
+				"In response your penis leaks out a puddle of pre on your stomach.",
+				"Speaks", "See, your penis is more honest. ♥",
+				"Sliding in a second finger, she begins to slowly finger-fuck your butt.",
+				"PlayerSpeaks", "Ahn.. ♥",
+				"Speaks", "Fufu, that's a nice voice♪. Let me hear more of your girly moans. ♥",
+				"Each time her fingers slide in, she pokes playfully at your prostate and your penis throbs with excitement in turn.",
+				"With lewd heat spreading through your lower body, you start feeling more and more excited.",
+				"Her teasing only causes you to leak precum, but never brings you over the edge.",
+				"Stuck on the edge of an orgasm, never able to cum, you become drunk with strange pleasure and feel your mind breaking.",
+				"Unable to take it anymore, you beg for more stimulation.",
+				"PlayerSpeaks", "Ah.. p-please, touch my dick.. ♥",
+				"Speaks", "No way. ♥ I am not touching your useless penis today, your butt needs discipline. ♥",
+				"Speaks", "But I am not cruel. You can touch it yourself. ♥ Go ahead, fap-fap♪. I will look closely at your shameful masturbation. ♥",
+				"Abandoning shame, you grab your neglected dick and start wacking yourself off furiously.",
+				"The dark elf giggles, still pumping her fingers in your ass.",
+				"PlayerSpeaks", "Ah.. this feels strange.. c-cumming!.. ♥",
+				"As you begin to orgasm she shoves her fingers inside, lewdly stroking your prostate, enhancing your orgasm.",
+				"A huge load of cum erupts from your dick, splashing on your stomach. The elf coos and giggles, praising your efforts.",
+				"Speaks", "Good boy. ♥ Did it feel good to have your butt teased? ♥",
+				"PlayerSpeaks", "Y-yesh. ♥",
+				"Speaks", "Good answer. ♥ Now come here, take a nap. ♥",
+				"In the dark elf's warm embrace, you bask in your afterglow, falling asleep quickly...",
+				"ChangeSensitivity", "Ass", "10"
+			],
+			"picture": ""
+		},
+		{
+			"NameOfScene": "Seeding.",
+			"move": "",
+			"stance": "Sex",
+			"includes": [
+				"Ilveria"
+			],
+			"theScene": [
+				"Even if the elf is barely able to fight back, her tight elven pussy feels exquisite and you realize that you won't last.",
+				"Collapsing face-first on her soft tits, you ejaculate wildly, filling her elven womb.",
+				"Speaks", "Ooh♥, t-that was close... ♥",
+				"Wrapping her legs and arms around your back, she keeps you from escaping.",
+				"Speaks", "I-if you can't move, maybe even I can... ♥",
+				"PlayerSpeaks", "Ah.. wait.. ♥",
+				"Holding you close, she begins squeezing her pussy muscles around your entrapped dick, rocking her hips gently.",
+				"While the stimulation is not too strong, the fact that you have no energy to resist spells your doom.",
+				"Speaks", "Ufufu. ♥ This is nice. ♥",
+				"Still hugging you tightly, she continues the gentle sex act.",
+				"Quite a bit of time passes.|n|Still, you find no energy to either struggle or shake your hips. Meanwhile the elf starts whispering in your ear, encouraging you to cum.",
+				"Speaks", "You can't escape anyway, so go ahead and just cum. ♥",
+				"PlayerSpeaks", "Uhh.. ♥",
+				"Speaks", "It feels nice, right? So don't hold back and just cum♪. Go ahead, shoot your white stuff in my pussy. ♥",
+				"Urged on by the elf's encouragement and slowly stroked by her warm snatch, you finally spill your seed again.",
+				"Speaks", "That's right, just like that. ♥ Keep cumming in my wet pussy until you're spent. ♥",
+				"Feeling even more exhausted now, you give in completely.",
+				"The dark elf coos and pats your head gently. Putting her hands on your cheeks, she brings your face closer for a kiss.",
+				"Still trapped inside her pussy and leglocked, you exchange a wet kiss with the elf.",
+				"Having no strength to even kiss properly, you just enjoy her lips pecking your face, her long tongue running across your lips and cheeks, her tight pussy still milking your dick.",
+				"Speaks", "Good boy. ♥ Now cum. ♥",
+				"As if eager to obey her words, your cock tenses up again.",
+				"PlayerSpeaks", "Ah.. ohh.. c-cumming!.. ♥",
+				"Speaks", "Ahn~♥ Good. ♥ Yawn, let's take a nap now. ♥",
+				"Still laying in the dark elf's warm embrace you drift away quietly, completely spent...",
+				"ChangeSensitivity", "Sex", "10"
+			],
+			"picture": ""
+		},
+		{
+			"NameOfScene": "Smoochies.",
+			"move": "",
+			"stance": "Blowjob",
+			"includes": [
+				"Ilveria"
+			],
+			"theScene": [
+				"ChangeImageFor", "1", "Lewd",
+				"Unable to withstand the intense blowjob, you collapse on the ground. The dark elf follows suit, still intent on sucking your dick.",
+				"Now comfortably nuzzled in your crotch, she finally pulls her mouth off, freeing your now soft dick from her mouth with a loud pop.",
+				"Speaks", "Fufu, did you enjoy my lewd blowjob, Hero? ♥",
+				"You can only groan in response, as she plants a wet kiss on your cockhead.",
+				"Speaks", "Oh, was I too hard on you? Does strong Hero's penis feel sore? ♥",
+				"Speaks", "Here, I'll kiss it all better. ♥",
+				"True to her words, she begins planting gentle kisses all over your dick.",
+				"It feels nice and relaxing, but the occasional laviscious lick, and her hands exploring and lewdly stroking your crotch begin to arouse you instead.",
+				"Soon your dick is completely smeared in yellow lipstick, and rests painfully erect against her face, as she lovingly kisses the base.",
+				"Speaks", "Fufu, all better, yes? But I am not done smooching you. ♥",
+				"Continuing with her affectionate ministrations, she plants wet, lewd kisses all over your dick again.",
+				"Not stopping only at your penis, she kisses and licks your balls, pubic mound and taint.",
+				"Unnaturally aroused by her kisses, you feel like you're about to burst.",
+				"Satisfied with her efforts, she returns to your cock, planting one more kiss on the head before smiling prettily.",
+				"Speaks", "What now, Hero? ♥",
+				"Being already aroused beyond belief, your cock is brought over the edge by her breath as she spoke to you.",
+				"PlayerSpeaks", "C-cumming!",
+				"Your cock erupting in a shameful premature ejaculation, you shower the surprised elf priestess with cum.",
+				"Speaks", "Ooh, haha, did you cum from my {i}breath{/i}?",
+				"Unable to muster a response, you only cover your face in shame.",
+				"Still giggling, the elf begins to kiss your dick again, completely unphased by her semen-stained face.",
+				"Speaks", "Next time, cum in {i}here{/i}. ♥",
+				"Gesturing lewdly at her mouth, she begins to swallow your dick.",
+				"In no time at all her nose plants in your crotch, her throat tightly wrapped around your dick, making you moan in ecstasy.",
+				"Evidently not satisfied with that, she pulls your balls inside her mouth as well!",
+				"With a vulgar sound, the elf rocks her head gently, stimulating your shaft with her throat.",
+				"Despite cumming so many times already, you cannot withstand the intense deepthroat, and begin to orgasm again.",
+				"As your hot seed spills in her tight throat, the elf gives a satisfied hum and you see her body shiver in delight.",
+				"Completely spent, you fall into exhausted slumber, dimly noting the elf still attached to your crotch...",
+				"ChangeFetish", "Oral", "10",
+				"ChangeSensitivity", "Sex", "7"
+			],
+			"picture": ""
+		},
+		{
+			"NameOfScene": "Expansion Paizuri 1.",
+			"move": "",
+			"stance": "Titfuck",
+			"includes": [
+				"Ilveria"
+			],
+			"theScene": [
+				"Depositing your load in the warm valley of chocolate titflesh, you collapse in exhaustion next to the smiling elf.",
+				"Speaks", "My♪. Did you like my breasts that much? ♥",
+				"The dark elf sits still, rubbing her cum-smeared tits. Taking a look on your crotch, she smiles.",
+				"Speaks", "But you're still hard. ♥ Pervert. ♥",
+				"Speaks", "Then lets keep titfucking. ♥ Up you go!",
+				"Grabbing your legs, she pulls you unto her lap, placing your dick in a submissive position between her breasts.",
+				"PlayerSpeaks", "Ahh..",
+				"Her heavy tits resting on your legs, your dick throbs in anticipation of being trapped between them again.",
+				"Speaks", "You must really like my boobies to still be hard. ♥ Then what if do {i}this{/i}? ♥",
+				"Poking her index fingers in her boobs, she mutters a spell. Golden runes encircle her bosom, and suddenly it begins to swell in size!",
+				"PlayerSpeaks", "Wha.. what's happening?",
+				"Speaks", "Just a little magic trick. ♥",
+				"Her already plump breasts keep growing until they nearly double in size.|n|With each tit now larger than her head, you marvel at the additional weight resting on you lap.",
+				"Speaks", "Uff, they're so heavy. ♥ I only do this on special occasions.",
+				"Speaks", "Since you're such a tit-lover, what would happen if I do this? ♥",
+				"Grabbing her huge tits, she wraps them tightly around your shaft. With some effort she begins sliding her oversized mammaries up and down your length.",
+				"Overwhelmed by the intense tightness of her heavy titjob, you moan and leak another load of spunk in her cleavage.",
+				"Speaks", "Fufu, thanks for the lotion. ♥ Now I can go faaster~",
+				"Gripping her tits so hard that it looks painful, she redoubles her efforts quickly slamming her weighty tits against your lap before lifting them up again.",
+				"The air is filled with loud slapping noises, your moans and the occasional giggle from the elf.",
+				"Speaks", "Fufu, when they're so big it sounds like we're having sex. ♥ As if my big butt was slapping against your crotch. ♥",
+				"Speaks", "But you prefer these, don't you? ♥ These obscene tits that swallowed your cock. ♥",
+				"PlayerSpeaks", "Ahh, y-yes!♥ More!",
+				"Overwhelmed by the intense titfuck, you can only moan and beg for more.",
+				"Speaks", "Mmhh♪ but this is hard, you know? I get more sensitive at this size, and have to grip them reallly harrd. ♥",
+				"True to her words, the elf's face is flushed red as she pants with lust.",
+				"Her lustful demeanor arouses you even more, bringing you over the edge.",
+				"PlayerSpeaks", "Uhh, c-cummiiing~♥",
+				"You orgasm again, squirting your cum in the soft prison of her abnormal tits.|n|Not a single drop escapes, the slimy white proof of your defeat hidden between her tits.",
+				"Unable to stay conscious anymore, you blackout as the elf continues to happily smash her tits against your crotch.",
+				"ChangeSensitivity", "Sex", "5",
+				"ChangeFetish", "Breasts", "10"
+			],
+			"picture": ""
+		}
+	],
+	"combatDialogue": [
+		{
+			"lineTrigger": "AutoCounter",
+			"move": "Analyze",
+			"theText": [
+				"|f|CallCombatEventAndScene|/|IlveriaCombatEvents|/|TryToAnalyze|/|"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Holy Headpat",
+			"theText": [
+				"'Fufu... that's not my chest, Hero. ♪'",
+				"She looks a bit perplexed."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Spank",
+			"theText": [
+				"'Fufu... Why not cop a feel instead?'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Whip",
+			"theText": [
+				"Her cheeks flush with arousal.",
+				"'Ahn... ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Analyze",
+			"theText": [
+				"'Ahn... ♥ Did you figure it out?'",
+				"She looks somewhat worried."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Arouse",
+			"theText": [
+				"'Mmhn... ♥ Not bad.'",
+				"She looks somewhat redder."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Arousara",
+			"theText": [
+				"'Oooh... ♥ Nice spell. ♥'",
+				"Clear liquid dribbles down her thighs."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Lewd Bottle",
+			"theText": [
+				"'You'll need stronger stuff, Hero. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Charm",
+			"theText": [
+				"'Mm, stop it human. ♪ I won't be able to hold back. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Sleep",
+			"theText": [
+				"'Yaawn... ♪ Ohh, excuse me. ♥'",
+				"She yawns cutely and blushes."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Erotic Mist",
+			"theText": [
+				"'Mmmh... ♪ Smells nice. ♥'",
+				"'Naughty. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Bondage Net",
+			"theText": [
+				"'Fufu... ♪ Not bad. ♥'",
+				"'Wrap me up real good... ♪'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Magical Binding",
+			"theText": [
+				"'Fufu... ♪ Not bad. ♥'",
+				"'Wrap me up real good... ♪'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Pin",
+			"theText": [
+				"'You brute, holding me down like that. ♥'",
+				"'Fufu, what now? Are you going to rape me now? ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Sensitize",
+			"theText": [
+				"'Hoho, not bad. ♥'",
+				"'Mmh, this feels nice. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Electrify",
+			"theText": [
+				"'AHH?! Ohhh my...'",
+				"'Fufu... ♪ Such petty magic won't help you against me, Hero.'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Kiss",
+			"theText": [
+				"'Kiss me more, if you dare. ♥'",
+				"'Mwah! ♥'",
+				"She licks her lips in delight."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Deep Kiss",
+			"theText": [
+				"'Mm, give me more of your saliva. ♥'",
+				"'Mm, mwah! ♥'",
+				"She responds eagerly, smearing your face with yellow lipstick."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Make Out",
+			"theText": [
+				"'Mwah, hoho♪ you won't escape now. ♥'",
+				"She giggles and kisses you passionately, over and over again. You start feeling overwhelmed."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Face Fuck",
+			"theText": [
+				"'Mmh...! ♥'",
+				"She looks taken aback, but still sucks eagerly."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Penetrate",
+			"theText": [
+				"'W-wait... That place is off limits!.. ♥'",
+				"'Kuh.. Impudent human.. ♥'",
+				"'F-fool!... ♥ Mating with a Priestess is... ♥'",
+				"'W-wait... ♥' she flashes a nervous smile.",
+				"She shivers with arousal as your shaft enters her."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Anal Penetration",
+			"theText": [
+				"'Anal sex? Good luck.. ♥'",
+				"'Fufu.. ♥' she flashes a confident smile.",
+				"She smiles confidently as you push your cock in her ass."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Thrust",
+			"theText": [
+				"'Mmmm. ♥'",
+				"'N-no... ♥ Not there~ ♥'",
+				"'Hahhhh... ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWithA",
+			"move": "Thrust",
+			"theText": [
+				"'Do your best. ♥'",
+				"'Fufu... ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Pound",
+			"theText": [
+				"'Ahii~♥ S-stop!~~♥'",
+				"'Mmmmm!♥ No more!♥'",
+				"'Ahn!♥ Your cock is poking at my womb, s-stop it you brute!!♥'",
+				"Her tongue is hanging out of her mouth as she is moaning incoherently."
+			]
+		},
+		{
+			"lineTrigger": "HitWithA",
+			"move": "Pound",
+			"theText": [
+				"'Mmh~♥ So strong~♥'",
+				"'How long can you last inside my ass, Hero? ♥'",
+				"She confidently responds to your pounding by squeezing your dick with her tight anus."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Multi Thrust",
+			"theText": [
+				"'Ahii~♥ S-stop!~~♥'",
+				"'Mmmmm!♥ No more!♥'",
+				"'Ahn!♥ Your cock is poking at my womb, s-stop you brute!!♥'",
+				"Her tongue is hanging out of her mouth as she is moaning incoherently."
+			]
+		},
+		{
+			"lineTrigger": "HitWithA",
+			"move": "Multi Thrust",
+			"theText": [
+				"'Mmh~♥ So strong~♥'",
+				"'How long can you last inside my ass, Hero? ♥'",
+				"She confidently shakes her big butt in tandem with your thrusts."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Empowered Thrust",
+			"theText": [
+				"'Ahii~♥ S-stop!~~♥'",
+				"'Mmmmm!♥ No more!♥'",
+				"'Ahn!♥ Your cock is poking at my womb, s-stop you brute!!♥'",
+				"Her tongue is hanging out of her mouth as she is moaning uncontrollably."
+			]
+		},
+		{
+			"lineTrigger": "HitWithA",
+			"move": "Empowered Thrust",
+			"theText": [
+				"'Mmh~♥ So strong~♥'",
+				"'How long can you last inside my ass, Hero? ♥'",
+				"She confidently responds to your thrust by squeezing your dick with her tight anus."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Breast Caress",
+			"theText": [
+				"'Fufu, you can squeeze harder. ♥'",
+				"'Want to try going between them? ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Breast Massage",
+			"theText": [
+				"'Fufu, you can squeeze harder. ♥'",
+				"'Want to try going between them? ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Suckle",
+			"theText": [
+				"'Fufu, you're like a little baby. ♥'",
+				"'Are my boobies tasty? ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Pinch Nipples",
+			"theText": [
+				"'Ahn~♥'",
+				"'Squeeze them more, human. ♥'",
+				"'Mmmm. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Tit Fucking",
+			"theText": [
+				"'Fufu, you brute. ♥'",
+				"'Can't resist my breasts, mm? Pervert. ♥'",
+				"'How does it feel between them? ♥'"
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Grope Ass",
+			"theText": [
+				"'Mmmm... ♥'",
+				"'Want to try... anal? ♥'",
+				"She rests her hands on yours, encouraging you to keep groping."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Finger",
+			"theText": [
+				"'Bad idea, human. ♥'",
+				"'Ah♥'",
+				"'Think you can handle my sacred pussy? ♥'",
+				"She shivers with pleasure."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Dildo",
+			"theText": [
+				"'Mmmm!♥'",
+				"'Ahhh... ♥ The real thing would be more dangerous... ♥'",
+				"She gasps in pleasure."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Seduce",
+			"theText": [
+				"'R-raw sex with a human? N-no, don't get ahead of yourself, Hero!'",
+				"'N-no way. ♥'",
+				"She blushes crimson, eyes darting down to your cock."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Ear Tease",
+			"theText": [
+				"'Ooohh you brute. ♥ Don't you know that touching elf ears is forbidden?'",
+				"'Oohh. ♥'",
+				"She blushes crimson."
+			]
+		},
+		{
+			"lineTrigger": "HitWith",
+			"move": "Distract",
+			"theText": [
+				"'Hmph, petty tricks.'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess Finger",
+			"theText": [
+				"'Fufu~ Such a cute anus. ♥'",
+				"'Heh, it went in easily. ♪ Are you already familiar with anal play, pervert Hero? ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess Prostate Milking",
+			"theText": [
+				"'I will squeeze it all out. ♪'",
+				"'Look... your penis is drooling~ ♥'",
+				"'Fufu, you are shaking... does it feel so amazing? ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Titfuck Temptation",
+			"theText": [
+				"'Ohh... You keep looking at my breasts~ Kyah. ♥'",
+				"'I submit, Hero. ♥ Take these sacred breasts with your crude human thing~'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Titfuck Encouragement",
+			"theText": [
+				"'Oh no, the Hero is having sex with my breasts!♥'",
+				"'How are they, Hero? ♥ Doesn't it feel just so very good? ♥'",
+				"'Fufu, you're mesmerized~♪ Keep humping my titties, Hero. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Pecking Kisses",
+			"theText": [
+				"'Mmhm, mwah, smooch. ♥'",
+				"She licks her lips with a flushed face.",
+				"'Fufu, you're marked with my lips now. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Wet Kiss",
+			"theText": [
+				"'Mmhm, smooch. ♥'",
+				"She licks your saliva off her lips with a flushed face.",
+				"'Fufu, you're marked with my lips now. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Penis Kissing",
+			"theText": [
+				"'How long can you endure? ♥'",
+				"She looks up at you with a playful grin.",
+				"'Want me to kiss it more? ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Fellatio Temptation",
+			"theText": [
+				"'Come here, I'll suck it all out. ♥'",
+				"'Come, Hero... my mouth is yours. ♥'",
+				"'Don't you want to feel my lips on your cock? ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Vacuum Blowjob",
+			"theText": [
+				"'Mnnn sluuurrp slurp. ♥'",
+				"'Slurp... ♥ Nha... ♥ I love your cock, Hero~ ♥'",
+				"'Mnaa... ♥ Give me your smelly cum, Hero!♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Knee Grind",
+			"theText": [
+				"'Mwah... fufufu, you're so haarrd. ♥'",
+				"'Mhm~ ♥ How's my leg feel, Hero? ♥'",
+				"'Fufu... ♥ Your penis is throbbing so much. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Anal Grind",
+			"theText": [
+				"'Fufu... ♥ How's my asshole? ♥'",
+				"'Uff... ♥ Your cock is so hard in my ass, Hero. ♥'",
+				"'Fufu... ♥ Your penis is throbbing in my butt. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Secret Poison Needle",
+			"theText": [
+				"'This should calm you down a bit. ♥'",
+				"She giggles cruelly as you feel the poison spreading.",
+				"'It won't be long now. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Vulgar Seduction",
+			"theText": [
+				"'Fufu, can't take your eyes off? ♥'",
+				"'Hey, come touch me~'",
+				"'Fufu, your cock is throbbing♪'",
+				"'If you can't take it anymore... come ravage me~ ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Priestess' Staff Dance",
+			"theText": [
+				"'Fufu, can't take your eyes off? ♥'",
+				"'Hey, come touch me~'",
+				"'Fufu, your cock is throbbing... ♪'",
+				"'If you can't take it anymore... come ravage me~ ♥'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Breast Smothering",
+			"theText": [
+				"'Puff~ puff~ puff! ♥'",
+				"'Fufu~ it's like I'm titfucking your brain. ♥'",
+				"'Just relax~ Let me squeeze away all those thoughts.'"
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "Breast Suffocation",
+			"theText": [
+				"'Aww~ ♪ Are my big tits overwhelming you, {i}Hero?{/i}'",
+				"'That's right~ just go limp in my breasts. ♥'",
+				"'Do you actually like me doing this to you? Pervert. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "LowHealth",
+			"move": "",
+			"theText": [
+				"'Haaaahhhh... ♥ Strong human Hero. ♥'",
+				"'MMmmmm♥ feels good. ♥'",
+				"'Ahhhhh, more!♥'",
+				"'Ahiiii~♥♥♥' Her haughty, smug facade crumbles, revealing a shameful look of uncontrollable desire."
+			]
+		},
+		{
+			"lineTrigger": "PlayerLowHealth",
+			"move": "",
+			"theText": [
+				"'Mmmm. ♥ are you going to splurt? ♥",
+				"'Cum, Hero. ♥ Don't hold back and spray your thick human sperm. ♥",
+				"'Give me your stinky cum, Hero. ♥'",
+				"'Are you going to cum? ♥ Go ahead, show me your shameful orgasm. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Priestess Prostate Milking",
+			"theText": [
+				"As the dark elfin woman mercilessly stimulates your overfilled prostate, you feel an incredible heat spreading through your lower body. Moaning and shaking with pleasure, you finally feel your neglected prick tense up, before spewing out a hot, sticky load all over your stomach and chest. The chocolate priestess giggles never letting up on the stimulation, pressing and rubbing her thin fingers against your over-stimulated gland, determinted to squeeze you dry.",
+				"'Fufu, you came so much. ♥ Did the strong Hero enjoy cumming with his butt like a girl? Go on, show me more of your shameful orgasms. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Titfuck Encouragement",
+			"theText": [
+				"Mindlessly humping the elf's dark mammaries, you grunt and grasp on her shoulders for support. Squeezed inside a tight prison of soft flesh, you begin unloading a large serving of your sticky seed down her cleavage. With a smug smile the elf squeezes her tits tighter before encouraging you to continue the pointless sex act.",
+				"'Ah, Hero. ♥ Are you close? Go ahead and stain my breasts with your cum. ♥ Keep humping them until I am completely covered in your stinky seed. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Priestess' Penis Kissing",
+			"theText": [
+				"The light kiss from the plump yellow lips sends you over the edge, causing you to spill your seed in the elf's face. With a condescending giggle she scoops up your spunk with her hands, licking it up with a entranced expression on her face.",
+				"'Mwah! ♥ ...Ooh, hoho. ♪ Did my little smooch make your penis burst? ♥ Aaahahahm, mmm... ♥ Your slimy cum is so tasty. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Priestess' Vacuum Blowjob",
+			"theText": [
+				"With the yellow lips forming a tight seal around your cock, the elf desperately sucks at your cock with an obscene slutty expression. Unable to hold out any longer, you buck your hips in her face and deposit a warm load in her hungrily gulping throat.",
+				"'Mmhh... ♪ Slurp. ♥ Gulp, gulp. ♥ Ah, your thick cum is so tasty, Hero... I will suck it aaallll out... ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Priestess' Anal Grind",
+			"theText": [
+				"With her anal muscles forming a tight seal around your cock, the elf playfully shakes her butt at your cock. Unable to hold out any longer, you buck your hips in her ass and deposit a warm load in her naughty asshole.",
+				"'Heehee♪ shoot all your cum in my ass, Hero. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Sex",
+			"theText": [
+				"Despite the elf's apparent submissiveness when it comes to vaginal sex, her top grade pussy feels too good and you feel your climax approaching fast. Wildly thrusting your hips you push yourself deep inside her snatch, firmly grasping her wide hips. With a groan you deposit your load right into waiting womb of the elf who is mewling pathetically under you.",
+				"'Ah, ahiii, no, don't cum inside me, oh nonono no no no. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Titfuck",
+			"theText": [
+				"The elf woman feels your orgasm approaching and squeezes her tits harder, urging and begging you to cum in her cleavage. Unable to hold back you groan and deposit a sticky load of spunk in her brown pillowy tits, eagerly thrusting your hips, lost in the pointless sex act.",
+				"Feeling your orgasm approaching, you grit your teeth in a vain attempt to hold it back. The elven woman giggles and bounces her tits eagerly in your crotch, squeezing and stroking your over-stimulated manhood. Unable to stop, you moan and spray your cum all deep between her tits, orgasming wildly and thrusting your hips desperately."
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Anal",
+			"theText": [
+				"The elf woman confidently shakes her large rump, squeezing and sucking on your cock with her lewd anal hole. Overwhelmed by the sensations, you flood her intestine with your warm load, eliciting an excited giggle from the elf.",
+				"'Fufu, did my ass feel good? Ahn... ♥ I am close too, I am sure you will win in no time, just keep thrusting your cock in my ass. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "Blowjob",
+			"theText": [
+				"Feeling your cock throbbing strongly in her mouth, the dark elf woman sucks with redoubled efforts. Lewd slurping noises fill the air as she desperately tries to suck out all your cum. Taken over the edge, you spill your seed into the elf's hungry mouth, making her hum with excitement as she gulps down each spurt of your hot seed.",
+				"'Mnn, mnaa, cum, hurry up and cum, I want to drink your cum so badly, hurry. ♥ Mmmmh! ♥ Gulp, gulp... ♪'"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "",
+			"theText": [
+				"You shiver with pleasure and cum, your cock erupting with your hot cum. 'Fufu, I'll keep them coming, Hero. ♥'",
+				"You squirm, moan and cum helplessly, overcome by her lewd techniques. Your hot jizz showers the elf, making her laugh happily."
+			]
+		},
+		{
+			"lineTrigger": "OnOrgasm",
+			"move": "",
+			"theText": [
+				"'AHHHHHHH! ♥ Mmmmm... Cumming~ ♥'",
+				"'N-no way... ♥ I am cummiiing~ ♥'",
+				"'YESSS! ♥ Ahhn, ahaha... ♥ Good one, Hero. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnOrgasm",
+			"move": "Sex",
+			"theText": [
+				"'Ahiii cumming, cumming! ♥'",
+				"'MMMM! ♥ Noo, my pussy is cumming, cumming!... ♥ So... Good... ♥'",
+				"'Hiiii, I submit, please stop, ooohh, I'm cumming, cumming so hard! Aheee... ♥'"
+			]
+		},
+		{
+			"lineTrigger": "OnSurrender",
+			"move": "",
+			"theText": [
+				"'Fufu, of course. I'll make you feel soo good now. ♥'",
+				"'Oh my, the human Hero is a pervert♪ Okay, I'll take care of you. ♥'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggle",
+			"move": "Sex",
+			"theText": [
+				"{ThePlayerName} tries to pull out of the {AttackerName}'s tight chocolate pussy..."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFail",
+			"move": "Sex",
+			"theText": [
+				"But she wraps her legs around you, keeping you inside while shivering with pleasure!",
+				"But as you try to get away, she hugs you close, moaning indecently!",
+				"But you groan as her vaginal walls tighten unnaturally, keeping your shaft deep inside her as she quivers with pleasure!",
+				"But with a lewd squeal she grabs your hands, interlocking fingers, keeping you inside!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleComment",
+			"move": "Sex",
+			"theText": [
+				"'D-don't stop, ahhn, this feels too good ♥'",
+				"'N-nooo, keep fucking my pussy! ♥'",
+				"'Aahn... I should let you stop... but it feels tooo goood~~ ♥'",
+				"'D-don't stop, make me yours! ♥'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFree",
+			"move": "Sex",
+			"theText": [
+				"And manage to pull free from the {AttackerName}'s unnaturally tight slit!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFreeComment",
+			"move": "Sex",
+			"theText": [
+				"'Ahhh... t-that was close...'",
+				"She quivers in pleasure, stroking her crotch absent-mindedly.",
+				"'C-can we do it again later? W-when I win... ♥'",
+				"'H-heh, did my pussy feel too good? ♥'"
+			]
+		},
+		{
+			"move": "Titfuck",
+			"lineTrigger": "StanceStruggle",
+			"theText": [
+				"{ThePlayerName} tries to pull {TargetHisOrHer} dick free from the {AttackerName}'s plump chocolate tits..."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFail",
+			"move": "Titfuck",
+			"theText": [
+				"But find yourself thrusting right back, seeking more pleasure between her soft tits!",
+				"You grab the {AttackerName}'s heavy breasts to push her away, but instead start groping them indecently!",
+				"But as she squeezes your cock with her warm bosom, you helplessly thrust your hips forward!",
+				"But as you start to pull away, she wraps her arms around your ass, shoving your dick back into her jiggling brown tits!",
+				"But she squeezes them tightly together with her arms and keeps your cock firmly buried between her curvy tits!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleComment",
+			"move": "Titfuck",
+			"theText": [
+				"'Fufu, you can't stop now. ♥'",
+				"'My breasts are your property now, why hold back? ♥'",
+				"'That's right, keep humping my boobs. ♥'",
+				"'Fufufu, your cock is throbbing so much. ♥'",
+				"She shoots you a smug glance and proceeds to drool some spit in her cleavage.",
+				"She relaxes with a content look, as you continue humping her warm breasts."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFree",
+			"move": "Titfuck",
+			"theText": [
+				"And manage to free your cock from the {AttackerName}'s dangerous cleavage!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFreeComment",
+			"move": "Titfuck",
+			"theText": [
+				"'Oh? You don't want to conquer my breasts?'",
+				"She rubs her breasts absent-mindedly.",
+				"'Are you sure you don't want to come back? ♥'",
+				"'Oh my, such willpower.'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggle",
+			"move": "Blowjob",
+			"theText": [
+				"{ThePlayerName} tries to pull {TargetHisOrHer} dick free from the {AttackerName}'s hungry mouth..."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFail",
+			"move": "Blowjob",
+			"theText": [
+				"But she hungrily gulps down on your cock, preventing escape!",
+				"As you grab {AttackerName}'s silky hair to pull her off your dick, you find yourself pushing her face down into your crotch instead!",
+				"But the strong suction of her wet mouth keeps you inside!",
+				"But as you start to pull away, she wraps her arms around your legs, slamming your cock back in her drooling mouth!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleComment",
+			"move": "Blowjob",
+			"theText": [
+				"With a lewd face she resumes her eager blowjob.",
+				"She shoots you a smug glance as she continues to suck your cock."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFree",
+			"move": "Blowjob",
+			"theText": [
+				"And manage to free your cock from the {AttackerName}'s wet mouth!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFreeComment",
+			"move": "Blowjob",
+			"theText": [
+				"'Aww, didn't you like my fellatio technique?'",
+				"She sucks on her finger with a disappointed look.",
+				"'Ah... Come back. ♥'",
+				"'My... It's rude to turn down a blowjob, you know?'"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggle",
+			"move": "Making Out",
+			"theText": [
+				"{ThePlayerName} tries to pull away from the {AttackerName}'s lips..."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFail",
+			"move": "Making Out",
+			"theText": [
+				"But she keeps her arms wrapped around the back of {ThePlayerName}'s neck, keeping {TargetHimOrHer} in a sloppy make out session!",
+				"But as you pull away she lunges forward, pecking your face with wet kisses!",
+				"But as you start to pull away, the {AttackerName} rubs against you with a needy whine, urging you to embrace her."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleComment",
+			"move": "Making Out",
+			"theText": [
+				"",
+				"'Mmmm, no, don't leave..'",
+				"'Mwah, let's kiss some more. ♥",
+				"'Noo... kiss me more, Hero. ♥"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFree",
+			"move": "Making Out",
+			"theText": [
+				"and manage to pull free from the {AttackerName}'s golden lips!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFreeComment",
+			"move": "Making Out",
+			"theText": [
+				"'Mm.. Want to try something even better now? ♥'",
+				"'Fufu.. Was that too much for you?'"
+			]
+		},
+		{
+			"lineTrigger": "RestraintStruggle",
+			"move": "Anal Fingering",
+			"theText": [
+				"{TargetName} struggles, trying to shake off the poison and get away from {AttackerName}'s invading finger..."
+			]
+		},
+		{
+			"lineTrigger": "RestraintStruggleCharmed",
+			"move": "Anal Fingering",
+			"theText": [
+				"{TargetName} squirms under {AttackerName}'s lewd ministrations, and can't help but enjoy the humiliating stimulation..."
+			]
+		},
+		{
+			"lineTrigger": "RetraintEscaped",
+			"move": "Anal Fingering",
+			"theText": [
+				"{TargetName} manages to shake off the debilitating poison! But {TargetHisOrHer} ass is still under attack by {AttackerName}..."
+			]
+		},
+		{
+			"lineTrigger": "RetraintEscapedFail",
+			"move": "Anal Fingering",
+			"theText": [
+				"But can't overcome the debilitating poison! The {AttackerName} giggles happily as she continues to play with your prostate."
+			]
+		},
+		{
+			"move": "Breast Smother",
+			"lineTrigger": "StanceStruggle",
+			"theText": [
+				"{ThePlayerName} tries to pull {TargetHisOrHer} head free from the {AttackerName}'s plump chocolate tits..."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFail",
+			"move": "Breast Smother",
+			"theText": [
+				"You grab the {AttackerName}'s heavy breasts to push her away, but instead start groping them indecently!",
+				"But as she squeezes your head with her warm bosom, you helplessly press yourself deeper into her cleavage!",
+				"But as you start to pull away, she cups your head in her hands, shoving your face back into her jiggling brown tits!",
+				"But she squeezes them tightly together with her arms and keeps your head firmly buried between her curvy tits!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleComment",
+			"move": "Breast Smother",
+			"theText": [
+				"'Fufu~ you can't get away. ♥'",
+				"'Why resist? Just lose yourself in my big tits~ ♥'",
+				"'That's right. Just relax... ♥'",
+				"'Fufufu, you look so dazed. ♥ Are my tits that good?'",
+				"She gives you a motherly look as she runs her fingers through your hair."
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFree",
+			"move": "Breast Smother",
+			"theText": [
+				"And manage to free yourself from the {AttackerName}'s dangerous cleavage!"
+			]
+		},
+		{
+			"lineTrigger": "StanceStruggleFreeComment",
+			"move": "Breast Smother",
+			"theText": [
+				"'Oh? You don't want to study me some more?'",
+				"She rubs her breasts absent-mindedly.",
+				"'Are you sure you don't want to come back? ♥'",
+				"'Oh my, such willpower.'"
+			]
+		}
+	],
+	"victoryScenes": [
+		{
+			"NameOfScene": "Priestess Defeated Sex",
+			"move": "",
+			"stance": "Sex",
+			"includes": [
+				"Ilveria"
+			],
+			"theScene": [
+				"ChangeImageFor", "1", "Lewd",
+				"Seeing how the elf under you is a shuddering, orgasming mess, you stall your assault.",
+				"While she's in no position to fight anymore, you still feel like she deserves a nice serving of cum in her pussy.",
+				"Speaks", "N-no more, please. ♥",
+				"Ignoring her plea, you grab her plump legs to raise them higher, as you press unto her from above and plunge your dick back inside.",
+				"Speaks", "Hiii~~ please no more, I'll go crazy!! ♥",
+				"Completely trapped underneath you, she can only complain and shudder in orgasms.",
+				"To silence her complaints you kiss her deeply while pounding her twitching sex.",
+				"Speaks", "Mmh...! ♥",
+				"Repeatedly slamming your dick inside her sopping wet pussy, you intend to fill it to the brim with your cum.",
+				"Soon the elf ceases squirming or trying to pull away, and needily rocks her hips along with you.",
+				"Breaking the kiss, you can focus and start fucking her even harder.",
+				"ChangeImageFor", "1", "Ahegao",
+				"Speaks", "Ahee~ sho goood~~ ♥ Master! Fuck me more, Master!♥",
+				"Speaks", "My pussy is cumming...! sho goood~~ ♥",
+				"With her top class chocolate pussy milking your dick, you follow suit and ejaculate inside the delirious elf with a grunt.",
+				"PlayerOrgasmNoSpiritLoss",
+				"Speaks", "Y-yes!♥ Mark my womb with your strong human seed, make me pregnant!... Make me yooourrs!~~~♥♥",
+				"Wrapping her arms and legs around your back, she leglocks you, ensuring all your cum goes inside her hot, tight cunt.",
+				"Finishing your orgasm, you disentangle yourself from the limp elf.",
+				"She lays on the ground twitching weakly, your semen gushing from her well-used pussy. Looks like she fainted.",
+				"JumpToEventThenScene", "Unusual Elf", "IlveriaUpdateProgress"
+			],
+			"picture": ""
+		},
+		{
+			"NameOfScene": "Priestess Defeated Facefuck",
+			"move": "",
+			"stance": "",
+			"includes": [
+				"Ilveria"
+			],
+			"theScene": [
+				"ChangeImageFor", "1", "Lewd",
+				"Speaks", "Ahh. ♥ Impossible... to think you'd win without... ♥",
+				"The elf priestess falls on her thick butt, panting heavily.",
+				"Approaching her, you decide to have some fun with the lewd priestess.",
+				"Looming right over her, you place your dick across her face.",
+				"Gasping in delight she takes a long whiff, smelling your cock with a lewd expression.",
+				"Speaks", "Ooh... ♥ strong human cock... ♥",
+				"Placing your hand on her head, you guide your dick between her lips.",
+				"Eagerly swallowing your dick, she begins sucking enthusiastically.",
+				"Wanting to be a little rougher with the slut priestess, you thrust your hips forward, burying your entire length in her throat in one motion.",
+				"Speaks", "Mmhh... ♥ mmm. ♥",
+				"Spurred on by her reaction, you begin fucking her face slowly.",
+				"Your cock is quickly covered in the elf's spit and smoothly slides in and out of her drooling mouth, your heavy balls slapping against her chin as she hums happily.",
+				"Enjoying the rough blowjob, you quicken your pace and roughly fuck her heavily blushing face.",
+				"She looks up to you with an enthralled expression, doing her best to pleasure your cock despite the rough treatment.",
+				"Between her eager suckling and tight slippery throat, you feel your orgasm approaching quickly.",
+				"Grabbing her head with both hands, you push her face in your crotch, trying to bury your cock as deep as you can.",
+				"PlayerOrgasmNoSpiritLoss",
+				"Your hot seed rushes right into her throat and she chokes with an obscene wet sound, shivering in pleasure.",
+				"Once you finish depositing your load in her stomach, you pull your dick out with a wet sound.",
+				"The elf collapses on her back, twitching weakly. A large puddle of her juices has formed between her legs."
+			],
+			"picture": ""
+		}
+	],
+	"pictures": [
+		{
+			"Name": "Base",
+			"StartOn": "1",
+			"AlwaysOn": "1",
+			"IsScene": "0",
+			"TheBody": "1",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.25",
+			"Images": [
+				{
+					"Name": "Base",
+					"File": "../Mods/Ilveria/delf.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{
+					"Name": "Grin",
+					"File": "../Mods/Ilveria/delf_grin.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{
+					"Name": "Shy",
+					"File": "../Mods/Ilveria/delf_shy.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{
+					"Name": "Wow",
+					"File": "../Mods/Ilveria/delf_wow.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{
+					"Name": "Lewd",
+					"File": "../Mods/Ilveria/delf_lewd.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				},
+				{
+					"Name": "Ahegao",
+					"File": "../Mods/Ilveria/delf_ahe.png",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				}
+			]
+		}
+	]
+}

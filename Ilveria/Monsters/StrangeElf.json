@@ -1,0 +1,162 @@
+{
+	"name": "Strange Elf",
+	"IDname": "Strange Elf",
+	"species": "Dark Elven",
+	"gender": "female",
+	"description": "An elf woman with chocolate brown skin, long pink hair, and dark crimson eyes, half-hidden by her heavy eyelids that give her a natural come-hither look. Her long and pointed ears are adorned with dark jewelry and a similarly dark crown of jagged stones rests on her head. Her full lips are covered in a thick layer of strikingly yellow lipstick. The dark elf's body is well-rounded and pleasantly plump, which is a rare trait for her species. Her limbs are adorned in dark purple gloves and stockings, while the rest of her outfit is much more revealing. For a top, she wears a tight underbust corset that serves only to support her huge breasts, while doing nothing to conceal them. Her crotch is barely covered by a tiny loincloth. A dark choker encrusted with same dark material as her jewelry is wrapped tightly around her neck.",
+	"encyclopedia": "This is just for her first meeting flavor.",
+	"tags": "none",
+	"generic": "False",
+	"requires": [
+		""
+	],
+	"skillList": [
+		""
+	],
+	"perks": [
+		""
+	],
+	"stats": {
+		"lvl": "1",
+		"Exp": "10",
+		"max_hp": "100",
+		"max_ep": "10",
+		"max_sp": "1",
+		"Power": "5",
+		"Technique": "5",
+        "Intelligence": "5",
+		"Willpower": "5",
+		"Allure": "5",
+		"Luck": "5"
+	},
+	"Fetishes": [
+		""
+	],
+	"BodySensitivity": {
+		"Sex": "100",
+		"Ass": "100",
+		"Breasts": "100",
+		"Mouth": "100",
+		"Seduction": "100",
+		"Magic": "100",
+		"Pain": "100",
+		"Holy": "100",
+		"Unholy": "100"
+	},
+	"resistancesStatusEffects": {
+		"Stun": "0",
+		"Charm": "0",
+		"Aphrodisiac": "0",
+		"Restraints": "0",
+		"Sleep": "0",
+		"Trance": "0",
+		"Paralysis": "0",
+		"Debuff": "0"
+	},
+	"moneyDropped": "0",
+	"ItemDropList": [
+		{
+			"name": "Anaph Herb",
+			"dropChance": "75"
+		}
+	],
+	"lossScenes": [
+		{
+			"NameOfScene": "",
+			"move": "",
+			"stance": "",
+			"includes": [
+				""
+			],
+			"theScene": [
+				""
+			],
+			"picture": ""
+		}
+	],
+	"combatDialogue": [
+		{
+			"lineTrigger": "HitWith",
+			"move": "Spank",
+			"theText": [
+				""
+			]
+		},
+		{
+			"lineTrigger": "UsesMove",
+			"move": "",
+			"theText": [
+				"''"
+			]
+		},
+		{
+			"lineTrigger": "LowHealth",
+			"move": "",
+			"theText": [
+				"''"
+			]
+		},
+		{
+			"lineTrigger": "PlayerLowHealth",
+			"move": "",
+			"theText": [
+				"''"
+			]
+		},
+		{
+			"lineTrigger": "OnPlayerOrgasm",
+			"move": "",
+			"theText": [
+				""
+			]
+		},
+		{
+			"lineTrigger": "OnOrgasm",
+			"move": "",
+			"theText": [
+				""
+			]
+		},
+		{
+			"lineTrigger": "OnSurrender",
+			"move": "",
+			"theText": [
+				""
+			]
+		}
+	],
+	"victoryScenes": [
+		{
+			"NameOfScene": "",
+			"move": "",
+			"stance": "",
+			"includes": [
+				""
+			],
+			"theScene": [
+				""
+			],
+			"picture": ""
+		}
+	],
+	"pictures": [
+		{
+			"Name": "None",
+			"StartOn": "1",
+			"AlwaysOn": "1",
+			"IsScene": "0",
+			"TheBody": "1",
+			"Overlay": "No",
+			"setXalign": "0.0",
+			"setYalign": "0.0",
+			"Images": [
+				{
+					"Name": "None",
+					"File": "",
+					"setXalign": "0.0",
+					"setYalign": "0.0"
+				}
+			]
+		}
+	]
+}

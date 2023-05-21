@@ -1,0 +1,305 @@
+{
+	"name": "IlveriaCombatEvents",
+	"CardType": "",
+	"CardLimit": "0",
+	"Description": "",
+	"requires": [
+		""
+	],
+	"Speakers": [
+		{
+			"name": "Ilveria",
+			"postName": "",
+			"SpeakerType": "Monster"
+		}
+	],
+	"EventText": [
+		{
+			"NameOfScene": "TryToAnalyze",
+			"theScene": [
+				"IfFetishLevelEqualOrGreater", "Breasts", "30", "AnalyzeWithFetish"
+			]
+		},
+		{
+			"NameOfScene": "AnalyzeWithFetish",
+			"theScene": [
+				"You attempt to analyze the elf, but as your eyes flit over her, it's so tempting to just take in her curvy form...",
+				"Speaks", "Fufu~ it's okay, you don't have to think about it. ♪",
+				"Ilveria leans forward, cupping her breasts in her hands.",
+				"Speaks", "I already told you... you can {i}investigate{/i} these as much as you want... ♥",
+				"Your love of boobs clouds your judgment, making it difficult to think!",
+				"IfFetishLevelEqualOrGreater", "Breasts", "90", "BreastSmotherTemptationWithMaxFetish",
+				"IfFetishLevelEqualOrGreater", "Breasts", "60", "BreastSmotherTemptationWithHighFetish",
+				"StatCheck", "Willpower", "15", "ResistBreastSmotherTemptation", "Fail", "SuccumbBreastSmotherTemptation"
+			]
+		},
+		{
+			"NameOfScene": "BreastSmotherTemptationWithMaxFetish",
+			"theScene": [
+				"SkipPlayerAttack",
+				"Your fetish is so overpowering that it completely overrides your rational thought!",
+				"Speaks", "That's what I thought. Come here~ ♪ Get a nice, close look... ♥",
+				"You barely notice Ilveria's triumphant grin as you stagger towards her.",
+				"Before you even know it, your head is nestled in between her ample breasts!",
+				"ApplyStance", "Breast Smother",
+				"You can barely see Ilveria's face looking down at you. You didn't even realise you'd fallen to your knees.",
+				"HitPlayerWith", "Breast Smothering",
+				"Ilveria squeezes her breasts together, pressing into your head with a wonderful softness that feels like it's going to wring you dry of thought...",
+				"HitPlayerWith", "Breast Smothering",
+				"Speaks", "Fufu... silly, pervert Hero. Can you even summon the will to escape?"
+			]
+		},
+		{
+			"NameOfScene": "BreastSmotherTemptationWithHighFetish",
+			"theScene": [
+				"Your obsession with tits is so strong, it's almost impossible not to give in...",
+				"StatCheck", "Willpower", "30", "ResistBreastSmotherTemptation", "Fail",  "SuccumbBreastSmotherTemptation"
+			]
+		},
+		{
+			"NameOfScene": "SuccumbBreastSmotherTemptation",
+			"theScene": [
+				"SkipPlayerAttack",
+				"Speaks", "C'mon, it won't hurt, right? Just one little look, then you can check out the rest of me.",
+				"Overwhelmed by desire, you approach in a daze.",
+				"Closer and closer, chocolate-skinned breasts filling more and more of your vision...",
+				"ApplyStance", "Breast Smother",
+				"It's only when you feel her breasts press against the sides of your head that you realise she's trapped you in her cleavage!",
+				"Speaks", "There! Fufu~ ♥ You look cute trapped between my tits, {i}Hero.{/i} ♪"
+			]
+		},
+		{
+			"NameOfScene": "ResistBreastSmotherTemptation",
+			"theScene": [
+				"But you manage to resist!",
+				"Ilveria pouts as you begin to study her properly.",
+				"Speaks", "D'aww... I mean, I don't mind you checking out the rest of me, but..."
+			]
+		},
+		
+		
+		{
+			"NameOfScene": "AnalTemptation",
+			"theScene": [
+				"The display is irresistibly arousing... {ThePlayerName} can barely resist the urge to plunge his dick in the exposed hole!",
+				"IfFetishLevelEqualOrGreater", "Ass", "90", "AnalTemptationWithMaxFetish",
+				"IfFetishLevelEqualOrGreater", "Ass", "60", "AnalTemptationWithHighFetish",
+				"IfFetishLevelEqualOrGreater", "Ass", "30", "AnalTemptationWithFetish",
+				"StatCheck", "Willpower", "15", "ResistAnalTemptation", "Fail", "SuccumbAnalTemptation"
+			]
+		},
+		{
+			"NameOfScene": "AnalTemptationWithMaxFetish",
+			"theScene": [
+				"SkipPlayerAttack",
+				"Your fetish is so overpowering that it completely overrides your rational thought!",
+				"ApplyStance", "Anal",
+				"Before you even realise it, you're already plunging yourself into her incredible anus.",
+				"Speaks", "Fufu... ♪ You love asses so much, you can't even think of resisting, can you?",
+				"HitPlayerWith", "Priestess' Anal Grind",
+				"You can't stop yourself from groaning as Ilveria grinds her backside against your crotch.",
+				"Speaks", "Well, how is it, {i}Hero?{/i} ♥ Does your thick cock like getting swallowed up by my ass? ♥",
+				"HitPlayerWith", "Priestess' Anal Grind",
+				"She slams her hips back, her clamping anus clamping down like a vice on your penis.",
+				"Something between a cry and a moan escapes your lips as the sensation washes over you.",
+				"PlayerSpeaks", "It's... ahn, aah... ♥",
+				"Speaks", "That good, huh? ♥ Well, then, I'll just drain your will to resist right through your dirty little cock. ♪",
+				"Without relaxing the pressure at all, she starts rhythmically pistoning her ass up and down your cock!",
+				"ApplyStatusEffect", "FuckedSilly",
+				"HitPlayerWith", "Priestess' Anal Grind",
+				"You wail incoherently, coherent thought completely drowned beneath the waves of pleasure.",
+				"HitPlayerWith", "Priestess' Anal Grind",
+				"PlayerSpeaks", "Uogh! Aagh! ♥ Aaaaaahh! ♥",
+				"Speaks", "Fufu... such a perverted Hero. ♥ Do you even want to keep fighting?",
+				"HitPlayerWith", "Priestess' Anal Grind",
+				"Speaks", "You'd better... or I'm doing to bully this perverted dick until it submits."
+			]
+		},
+		{
+			"NameOfScene": "AnalTemptationWithHighFetish",
+			"theScene": [
+				"Your obsession with asses is so strong, it's almost impossible not to give in...",
+				"StatCheck", "Willpower", "45", "ResistAnalTemptation", "Fail", "SuccumbAnalTemptation"
+			]
+		},
+		{
+			"NameOfScene": "AnalTemptationWithFetish",
+			"theScene": [
+				"You almost don't hear Ilveria's tempting voice as you stare at her voluptuous form, your love of asses clouding your judgement...",
+				"StatCheck", "Willpower", "30", "ResistAnalTemptation", "Fail",  "SuccumbAnalTemptation"
+			]
+		},
+		{
+			"NameOfScene": "SuccumbAnalTemptation",
+			"theScene": [
+				"SkipPlayerAttack",
+				"ApplyStance", "Anal",
+				"You both give out a sigh of pleasure as your cock sinks into Ilveria's welcoming anus.",
+				"Speaks", "Aaahn... ♥ For a moment there, I was worried you would say no.",
+				"Speaks", "I've got you now, though. ♪"
+			]
+		},
+		{
+			"NameOfScene": "ResistAnalTemptation",
+			"theScene": [
+				"You manage to resist the temptation long enough to think clearly!",
+				"Menu",
+					"Fuck her!",
+					"Ignore her.",
+				"EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Fuck her!",
+			"theScene": [
+				"With a perfectly clear head, you make the rational decision: fuck the sexy elf butt.",
+				"SkipPlayerAttack",
+				"ApplyStance", "Anal",
+				"Speaks", "Fufu... all the willpower in the world won't help if you're a {i}pervert.{/i} ♪"
+			]
+		},
+		{
+			"NameOfScene": "PaizuriTemptation",
+			"theScene": [
+				"Mesmerised, you find yourself yearning to rush forward and force your dick into the inviting valley between her chocolate breasts...",
+				"IfFetishLevelEqualOrGreater", "Breasts", "90", "PaizuriTemptationWithMaxFetish",
+				"IfFetishLevelEqualOrGreater", "Breasts", "60", "PaizuriTemptationWithHighFetish",
+				"IfFetishLevelEqualOrGreater", "Breasts", "30", "PaizuriTemptationWithFetish",
+				"StatCheck", "Willpower", "15", "ResistPaizuriTemptation", "Fail", "SuccumbPaizuriTemptation"
+			]
+		},
+		{
+			"NameOfScene": "PaizuriTemptationWithMaxFetish",
+			"theScene": [
+				"SkipPlayerAttack",
+				"Your fetish is so overpowering that it completely overrides your rational thought!",
+				"ApplyStance", "Titfuck"
+			]
+		},
+		{
+			"NameOfScene": "PaizuriTemptationWithHighFetish",
+			"theScene": [
+				"Your obsession with tits is so strong, it's almost impossible not to give in...",
+				"StatCheck", "Willpower", "45", "ResistPaizuriTemptation", "Fail",  "SuccumbPaizuriTemptation"
+			]
+		},
+		{
+			"NameOfScene": "PaizuriTemptationWithFetish",
+			"theScene": [
+				"You almost don't hear Ilveria's tempting voice as you stare at her voluptuous form, your love of boobs clouding your judgement...",
+				"StatCheck", "Willpower", "30", "ResistPaizuriTemptation", "Fail",  "SuccumbPaizuriTemptation"
+			]
+		},
+		{
+			"NameOfScene": "SuccumbPaizuriTemptation",
+			"theScene": [
+				"SkipPlayerAttack",
+				"ApplyStance", "Titfuck",
+				"Overwhelmed by desire, you present your penis to Ilveria.",
+				"Speaks", "Aaahn... ♥ For a moment there, I was worried you would say no.",
+				"Without a moment's hesitation, she leans forward and sandwiches your dick between her huge, round breasts.",
+				"You let out a moan as the pillowy flesh engulfs your rod.",
+				"Speaks", "I've got you now, though. ♪"
+			]
+		},
+		{
+			"NameOfScene": "ResistPaizuriTemptation",
+			"theScene": [
+				"You manage to resist the temptation long enough to think clearly!",
+				"Menu",
+					"Fuck her tits!",
+					"Ignore her.",
+				"EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Fuck her tits!",
+			"theScene": [
+				"With a perfectly clear head, you make the rational decision: titfuck the sexy elf.",
+				"Ilveria coos as you present your cock to her cleavage.",
+				"Speaks", "Fufu... I didn't need to tempt you at all, did I? ♪ {i}Pervert.{/i} ♥",
+				"SkipPlayerAttack",
+				"ApplyStance", "Titfuck",
+				"Without a moment's hesitation, she leans forward and sandwiches your dick between her huge, round breasts.",
+				"You let out a moan as the pillowy flesh engulfs your rod.",
+				"Speaks", "You won't regret it, though. ♥"
+			]
+		},
+		
+		{
+			"NameOfScene": "OralTemptation",
+			"theScene": [
+				"Mesmerised, you find yourself barely able to resist rushing forward and forcing your dick into her waiting maw...",
+				"IfFetishLevelEqualOrGreater", "Oral", "90", "OralTemptationWithMaxFetish",
+				"IfFetishLevelEqualOrGreater", "Oral", "60", "OralTemptationWithHighFetish",
+				"IfFetishLevelEqualOrGreater", "Oral", "30", "OralTemptationWithFetish",
+				"StatCheck", "Willpower", "15", "ResistOralTemptation", "Fail", "SuccumbOralTemptation"
+			]
+		},
+		{
+			"NameOfScene": "OralTemptationWithMaxFetish",
+			"theScene": [
+				"SkipPlayerAttack",
+				"Your fetish is so overpowering that it completely overrides your rational thought!",
+				"ApplyStance", "Blowjob",
+				"Speaks", "Aauowm... ♥ Shoo tasty. ♥",
+				"Without a moment's hesitation, she sucks her cheeks in, tongue already running circles around your head.",
+				"You let out a moan as she hums in satisfaction, sending erotic vibrations all over your rod."
+			]
+		},
+		{
+			"NameOfScene": "OralTemptationWithHighFetish",
+			"theScene": [
+				"The thought of her lips clamped around your base is so alluring, it's almost impossible not to give in...",
+				"StatCheck", "Willpower", "45", "ResistOralTemptation", "Fail",  "SuccumbOralTemptation"
+			]
+		},
+		{
+			"NameOfScene": "OralTemptationWithFetish",
+			"theScene": [
+				"You almost don't hear Ilveria's tempting voice as you stare at her waiting mouth. Your boner screams with need to feel that tongue...",
+				"StatCheck", "Willpower", "30", "ResistOralTemptation", "Fail",  "SuccumbOralTemptation"
+			]
+		},
+		{
+			"NameOfScene": "SuccumbOralTemptation",
+			"theScene": [
+				"SkipPlayerAttack",
+				"ApplyStance", "Blowjob",
+				"Overwhelmed by desire, you rush forward, sliding your penis into Ilveria's warm, wet mouth.",
+				"Speaks", "Aauowm... ♥ Shoo tasty. ♥",
+				"Without a moment's hesitation, she sucks her cheeks in, tongue already running circles around your head.",
+				"You let out a moan as she hums in satisfaction, sending erotic vibrations all over your rod."
+			]
+		},
+		{
+			"NameOfScene": "ResistOralTemptation",
+			"theScene": [
+				"You manage to resist the temptation long enough to think clearly!",
+				"Menu",
+					"Fuck her throat!",
+					"Ignore her.",
+				"EndLoop"
+			]
+		},
+		{
+			"NameOfScene": "Fuck her throat!",
+			"theScene": [
+				"With a clear head, you make the perfect rational decision: get sucked off by the half-naked elf.",
+				"SkipPlayerAttack",
+				"ApplyStance", "Blowjob",
+				"Speaks", "Aauowm... ♥ Shoo tasty. ♥",
+				"Without a moment's hesitation, she sucks her cheeks in, tongue already running circles around your head.",
+				"You let out a moan as she hums in satisfaction, sending erotic vibrations all over your rod."
+			]
+		},
+		{
+			"NameOfScene": "Ignore her.",
+			"theScene": [
+				"Despite the allure of the display before you, you stay where you are.",
+				"Speaks", "Oh my... such willpower! ♪",
+				"Speaks", "Guess I'll have to be a bit more {i}convincing{/i}..."
+			]
+		}
+	]
+}
