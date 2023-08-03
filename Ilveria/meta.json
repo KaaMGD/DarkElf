@@ -1,14 +1,16 @@
 {
     "name": "Ilveria",
     "description": "Adds a new event to the mountain, {b}Unusual Elf{/b}, featuring a dark elf named Ilveria with original art.",
-    "testedFor": 25.2,
+    "testedFor": {"major": 25, "minor": 4, "patch": 1},
     "version": 1.0,
     "tags" : [
         "+1 Character",
         "+1 Event",
         "Original Art"
     ],
-    "credits": "The company Dupont for inveting nylon stockings.",
+    "credits": [
+        "The company Dupont for inveting nylon stockings."
+    ],
     "authors": [
         "Kaa",
         "Strangeman52"
