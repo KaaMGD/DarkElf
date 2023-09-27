@@ -1,8 +1,8 @@
 {
     "name": "Ilveria",
     "description": "Adds a new event to the mountain, {b}Unusual Elf{/b}, featuring a dark elf named Ilveria with original art.",
-    "testedFor": {"major": 25, "minor": 4, "patch": 1},
-    "version": 1.0,
+    "testedFor": {"major": 25, "minor": 6, "patch": 0},
+    "version": 1.1,
     "tags" : [
         "+1 Character",
         "+1 Event",

@@ -30,12 +30,12 @@
     "statusResistedBy": "Power",
     "statusText": "",
     "descrip": "",
-    "outcome": "{AttackerName} skillfully pricks {TargetName}'s neck with a sinister-looking needle!",
-    "miss": "{AttackerName} tries to sting {TargetName} with a needle, but {TargetHeOrShe} keeps away.",
-    "statusOutcome": "{TargetName}'s body rapidly becomes numb! {TargetName} is paralyzed and crumples to the ground!",
-    "statusMiss": "{TargetName}'s powerful body resists the poison!",
-    "restraintStruggle": "{TargetName} desperately tries to move his body!",
-    "restraintStruggleCharmed": "{TargetName} struggles to move his body while moaning pathetically!",
-    "restraintEscaped": "{TargetName}'s body overcomes the numbing poison!",
-    "restraintEscapedFail": "{TargetName} fails to move!"
+    "outcome": "[AttackerName] skillfully pricks [TargetName]'s neck with a sinister-looking needle!",
+    "miss": "[AttackerName] tries to sting [TargetName] with a needle, but [TargetHeOrShe] keeps away.",
+    "statusOutcome": "[TargetName]'s body rapidly becomes numb! [TargetName] is paralyzed and crumples to the ground!",
+    "statusMiss": "[TargetName]'s powerful body resists the poison!",
+    "restraintStruggle": "[TargetName] desperately tries to move his body!",
+    "restraintStruggleCharmed": "[TargetName] struggles to move his body while moaning pathetically!",
+    "restraintEscaped": "[TargetName]'s body overcomes the numbing poison!",
+    "restraintEscapedFail": "[TargetName] fails to move!"
 }
