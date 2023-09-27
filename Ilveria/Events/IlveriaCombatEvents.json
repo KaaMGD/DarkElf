@@ -81,7 +81,7 @@
 		{
 			"NameOfScene": "AnalTemptation",
 			"theScene": [
-				"The display is irresistibly arousing... {ThePlayerName} can barely resist the urge to plunge his dick in the exposed hole!",
+				"The display is irresistibly arousing... [ThePlayerName] can barely resist the urge to plunge his dick in the exposed hole!",
 				"IfFetishLevelEqualOrGreater", "Ass", "90", "AnalTemptationWithMaxFetish",
 				"IfFetishLevelEqualOrGreater", "Ass", "60", "AnalTemptationWithHighFetish",
 				"IfFetishLevelEqualOrGreater", "Ass", "30", "AnalTemptationWithFetish",

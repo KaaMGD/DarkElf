@@ -917,7 +917,7 @@
 			"lineTrigger": "StanceStruggle",
 			"move": "Sex",
 			"theText": [
-				"{ThePlayerName} tries to pull out of the {AttackerName}'s tight chocolate pussy..."
+				"[ThePlayerName] tries to pull out of the [AttackerName]'s tight chocolate pussy..."
 			]
 		},
 		{
@@ -944,7 +944,7 @@
 			"lineTrigger": "StanceStruggleFree",
 			"move": "Sex",
 			"theText": [
-				"And manage to pull free from the {AttackerName}'s unnaturally tight slit!"
+				"And manage to pull free from the [AttackerName]'s unnaturally tight slit!"
 			]
 		},
 		{
@@ -961,7 +961,7 @@
 			"move": "Titfuck",
 			"lineTrigger": "StanceStruggle",
 			"theText": [
-				"{ThePlayerName} tries to pull {TargetHisOrHer} dick free from the {AttackerName}'s plump chocolate tits..."
+				"[ThePlayerName] tries to pull [TargetHisOrHer] dick free from the [AttackerName]'s plump chocolate tits..."
 			]
 		},
 		{
@@ -969,7 +969,7 @@
 			"move": "Titfuck",
 			"theText": [
 				"But find yourself thrusting right back, seeking more pleasure between her soft tits!",
-				"You grab the {AttackerName}'s heavy breasts to push her away, but instead start groping them indecently!",
+				"You grab the [AttackerName]'s heavy breasts to push her away, but instead start groping them indecently!",
 				"But as she squeezes your cock with her warm bosom, you helplessly thrust your hips forward!",
 				"But as you start to pull away, she wraps her arms around your ass, shoving your dick back into her jiggling brown tits!",
 				"But she squeezes them tightly together with her arms and keeps your cock firmly buried between her curvy tits!"
@@ -991,7 +991,7 @@
 			"lineTrigger": "StanceStruggleFree",
 			"move": "Titfuck",
 			"theText": [
-				"And manage to free your cock from the {AttackerName}'s dangerous cleavage!"
+				"And manage to free your cock from the [AttackerName]'s dangerous cleavage!"
 			]
 		},
 		{
@@ -1008,7 +1008,7 @@
 			"lineTrigger": "StanceStruggle",
 			"move": "Blowjob",
 			"theText": [
-				"{ThePlayerName} tries to pull {TargetHisOrHer} dick free from the {AttackerName}'s hungry mouth..."
+				"[ThePlayerName] tries to pull [TargetHisOrHer] dick free from the [AttackerName]'s hungry mouth..."
 			]
 		},
 		{
@@ -1016,7 +1016,7 @@
 			"move": "Blowjob",
 			"theText": [
 				"But she hungrily gulps down on your cock, preventing escape!",
-				"As you grab {AttackerName}'s silky hair to pull her off your dick, you find yourself pushing her face down into your crotch instead!",
+				"As you grab [AttackerName]'s silky hair to pull her off your dick, you find yourself pushing her face down into your crotch instead!",
 				"But the strong suction of her wet mouth keeps you inside!",
 				"But as you start to pull away, she wraps her arms around your legs, slamming your cock back in her drooling mouth!"
 			]
@@ -1033,7 +1033,7 @@
 			"lineTrigger": "StanceStruggleFree",
 			"move": "Blowjob",
 			"theText": [
-				"And manage to free your cock from the {AttackerName}'s wet mouth!"
+				"And manage to free your cock from the [AttackerName]'s wet mouth!"
 			]
 		},
 		{
@@ -1050,16 +1050,16 @@
 			"lineTrigger": "StanceStruggle",
 			"move": "Making Out",
 			"theText": [
-				"{ThePlayerName} tries to pull away from the {AttackerName}'s lips..."
+				"[ThePlayerName] tries to pull away from the [AttackerName]'s lips..."
 			]
 		},
 		{
 			"lineTrigger": "StanceStruggleFail",
 			"move": "Making Out",
 			"theText": [
-				"But she keeps her arms wrapped around the back of {ThePlayerName}'s neck, keeping {TargetHimOrHer} in a sloppy make out session!",
+				"But she keeps her arms wrapped around the back of [ThePlayerName]'s neck, keeping [TargetHimOrHer] in a sloppy make out session!",
 				"But as you pull away she lunges forward, pecking your face with wet kisses!",
-				"But as you start to pull away, the {AttackerName} rubs against you with a needy whine, urging you to embrace her."
+				"But as you start to pull away, the [AttackerName] rubs against you with a needy whine, urging you to embrace her."
 			]
 		},
 		{
@@ -1076,7 +1076,7 @@
 			"lineTrigger": "StanceStruggleFree",
 			"move": "Making Out",
 			"theText": [
-				"and manage to pull free from the {AttackerName}'s golden lips!"
+				"and manage to pull free from the [AttackerName]'s golden lips!"
 			]
 		},
 		{
@@ -1091,42 +1091,42 @@
 			"lineTrigger": "RestraintStruggle",
 			"move": "Anal Fingering",
 			"theText": [
-				"{TargetName} struggles, trying to shake off the poison and get away from {AttackerName}'s invading finger..."
+				"[TargetName] struggles, trying to shake off the poison and get away from [AttackerName]'s invading finger..."
 			]
 		},
 		{
 			"lineTrigger": "RestraintStruggleCharmed",
 			"move": "Anal Fingering",
 			"theText": [
-				"{TargetName} squirms under {AttackerName}'s lewd ministrations, and can't help but enjoy the humiliating stimulation..."
+				"[TargetName] squirms under [AttackerName]'s lewd ministrations, and can't help but enjoy the humiliating stimulation..."
 			]
 		},
 		{
 			"lineTrigger": "RetraintEscaped",
 			"move": "Anal Fingering",
 			"theText": [
-				"{TargetName} manages to shake off the debilitating poison! But {TargetHisOrHer} ass is still under attack by {AttackerName}..."
+				"[TargetName] manages to shake off the debilitating poison! But [TargetHisOrHer] ass is still under attack by [AttackerName]..."
 			]
 		},
 		{
 			"lineTrigger": "RetraintEscapedFail",
 			"move": "Anal Fingering",
 			"theText": [
-				"But can't overcome the debilitating poison! The {AttackerName} giggles happily as she continues to play with your prostate."
+				"But can't overcome the debilitating poison! The [AttackerName] giggles happily as she continues to play with your prostate."
 			]
 		},
 		{
 			"move": "Breast Smother",
 			"lineTrigger": "StanceStruggle",
 			"theText": [
-				"{ThePlayerName} tries to pull {TargetHisOrHer} head free from the {AttackerName}'s plump chocolate tits..."
+				"[ThePlayerName] tries to pull [TargetHisOrHer] head free from the [AttackerName]'s plump chocolate tits..."
 			]
 		},
 		{
 			"lineTrigger": "StanceStruggleFail",
 			"move": "Breast Smother",
 			"theText": [
-				"You grab the {AttackerName}'s heavy breasts to push her away, but instead start groping them indecently!",
+				"You grab the [AttackerName]'s heavy breasts to push her away, but instead start groping them indecently!",
 				"But as she squeezes your head with her warm bosom, you helplessly press yourself deeper into her cleavage!",
 				"But as you start to pull away, she cups your head in her hands, shoving your face back into her jiggling brown tits!",
 				"But she squeezes them tightly together with her arms and keeps your head firmly buried between her curvy tits!"
@@ -1147,7 +1147,7 @@
 			"lineTrigger": "StanceStruggleFree",
 			"move": "Breast Smother",
 			"theText": [
-				"And manage to free yourself from the {AttackerName}'s dangerous cleavage!"
+				"And manage to free yourself from the [AttackerName]'s dangerous cleavage!"
 			]
 		},
 		{
